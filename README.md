@@ -22,6 +22,6 @@ Dataset 3 - https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+datase
 ## How to run this model on your custom data?
 
 1) Clone the git repository
-2) Upload the feature_extractor.ipynb to google collab and upload your dataset named URL.xlsx.
+2) Upload the feature_extractor.ipynb to google colab and upload your dataset named URL.xlsx.
 3) Run the notebook which extract features from the URL instances and store it in file data1.xlsx
-4) Upload the final_model.ipynb to google collab along with files URL.xlsx and data1.xlsx and run the notebook to see the results.
+4) Upload the final_model.ipynb to google colab along with files URL.xlsx and data1.xlsx and run the notebook to see the results.
